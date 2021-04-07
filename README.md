@@ -1,3 +1,5 @@
+[![CI](https://github.com/eazytrainingfr/ansible-role_webapp/workflows/CI/badge.svg?event=push)](https://github.com/eazytrainingfr/ansible-role_webapp/actions?query=workflow%3ACI)
+
 Role Name
 =========
 
